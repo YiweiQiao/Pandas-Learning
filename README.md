@@ -1,1 +1,2 @@
 # Pandas-Learning
+df.info()
